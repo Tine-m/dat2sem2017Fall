@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Software Development Fall 2017
+markdown: kramdown
+kramdown:
+   auto_ids: true
